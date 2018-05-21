@@ -39,8 +39,6 @@ li.a { display: inline-block;
 .column {
     float: left;
     width: 40%;
-
-    height: 300px; 
 }
 @media screen and (max-width: 768px) {
     .column {
